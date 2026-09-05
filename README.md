@@ -60,6 +60,3 @@ The code is added in the venue section of the copied Event Espresso table templa
 │   └── espresso-events-table-template.template.php  # add your real customized 
 ```
 
-> The screenshots in this README are loaded using direct links from the separate `developer1wiseryk/screenshots` GitHub repository.
-
-> The file in `snippets/` is only a reference copy of the custom code. Add your real customized `espresso-events-table-template.template.php` file to the `child-theme/` folder before pushing the repository.
