@@ -52,11 +52,3 @@ The code is added in the venue section of the copied Event Espresso table templa
 4. Find the section where `espresso_venue_address()` outputs the venue address.
 5. Add the code shown above.
 6. Save the file and check the Event Espresso events table on the front end.
-
-## Repository Structure
-
-```text
-├── child-theme/
-│   └── espresso-events-table-template.template.php  # add your real customized 
-```
-
