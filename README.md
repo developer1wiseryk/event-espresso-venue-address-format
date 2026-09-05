@@ -1,6 +1,6 @@
 # Event Espresso Venue Address - Replace `<br>` with Commas
 
-This customization changes the Event Espresso venue address display so the address appears in a single row with commas instead of `<br />` line breaks.
+This customization changes the Event Espresso Table Template Addon venue address display so the address appears in a single row with commas instead of `<br />` line breaks.
 
 ## Result
 
@@ -9,11 +9,12 @@ This customization changes the Event Espresso venue address display so the addre
 ## Dependencies
 
 - Event Espresso
+- Event Espresso - Events List Table Template
 - WordPress child theme
 
 ## File to Customize
 
-Copy the following Event Espresso template file into your child theme:
+Copy the following "Event Espresso - Events List Table Template" template file into your child theme:
 
 ```text
 espresso-events-table-template.template.php
