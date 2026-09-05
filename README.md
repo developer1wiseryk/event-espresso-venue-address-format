@@ -1,4 +1,4 @@
-# Event Espresso Venue Address - Replace `<br>` with Commas
+# Event Espresso Add-On "Event Espresso - Events List Table Template" Venue Address - Replace `<br>` with Commas
 
 This customization changes the Event Espresso Table Template Addon venue address display so the address appears in a single row with commas instead of `<br />` line breaks.
 
